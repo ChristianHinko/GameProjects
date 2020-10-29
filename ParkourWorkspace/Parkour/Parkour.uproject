@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E27B2B61-4F2D-2445-E20A-F9860E8FD255}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Parkour",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
